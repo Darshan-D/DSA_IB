@@ -1,5 +1,4 @@
 # DSA_IB
 All the DSA questions I have solved on Interview Bit till now.
-Will keep on Updating it
 
-Total as of last push (21/1/22) - 4
+Since Interview Bit does not allow, to share profile, hence making this repo.
