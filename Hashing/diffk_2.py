@@ -21,7 +21,7 @@ class Solution:
 		
         # Similar approach as 2_Sum
 
-		hash_set = set()
+	hash_set = set()
 
         for i in A:
             if i-B in hash_set or i+B in hash_set:
