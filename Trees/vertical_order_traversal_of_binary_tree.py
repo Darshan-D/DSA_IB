@@ -28,7 +28,7 @@ class Solution:
 		# the queue will store a tuple, one value being the node,
 		# other being the lvl of that node
 		# since we need to get all which are at the same lvl together
-        queue = [(A,0)]
+        	queue = [(A,0)]
 
 		# mx_pos and mx_neg will give us the width of tree
 		mx_pos = 0
