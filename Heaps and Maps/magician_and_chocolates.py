@@ -30,7 +30,7 @@ class Solution:
         # Final ans, this will store maximum choclates that can be eaten
         tot_chocolates = 0
 
-        # Till we the number of times kid can eat choclates
+        # Till the number of times kid can eat choclates
         while A > 0:
             A-=1
 
