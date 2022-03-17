@@ -3,4 +3,4 @@ All the DSA questions I have solved on Interview Bit till now.
 
 Since Interview Bit does not allow, to share profile, hence making this repo.
 
-Total questions solved as of 16th March 2022 - 104 questions
+Total questions solved as of 17th March 2022 - 105 questions
