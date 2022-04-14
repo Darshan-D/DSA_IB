@@ -21,4 +21,7 @@ class Solution:
             else:
                 return gcd(B, A%B)
                 
-        return A if gcd(A,B)==1 else self.cpFact(A//gcd(A,B),B)
+        if gcd(A,B)==1:
+            return A
+        else:
+            return self.cpFact(A//gcd(A,B),B)
